@@ -5,6 +5,7 @@ public class ThirdClass {
 	public static void main(String[] args) {
 		
 		System.out.println("this is third class");
+		System.out.println("this is first change in ThirdClass");
 
 	}
 
