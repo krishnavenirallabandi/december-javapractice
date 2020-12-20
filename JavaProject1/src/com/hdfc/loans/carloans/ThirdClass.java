@@ -6,7 +6,7 @@ public class ThirdClass {
 		
 		System.out.println("this is third class");
 		System.out.println("this is first change in ThirdClass");
-
+		System.out.println("this is second change in ThirdClass");
 	}
 
 }
